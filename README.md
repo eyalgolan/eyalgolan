@@ -3,10 +3,9 @@
 <html>
 <h2 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Eyal Golan</h2>
 <h4 align="center">
-Software Developer specializing in Python and Go and a former
-DevOps Engineer. 
+Software Engineer with 5 years of experience, and a former DevOps Engineer.  
 </br>
-Fast learner and highly motivated to create quality products that bring high value to customers. 
+Highly motivated to create quality products that bring high value to customers. 
 </h4>
 <h4 align="center">You can also find me on:
 </br>
